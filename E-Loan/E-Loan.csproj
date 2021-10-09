@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-Loan.BusinessLayer\E-Loan.BusinessLayer.csproj" />
+    <ProjectReference Include="..\E-Loan.DataLayer\E-Loan.DataLayer.csproj" />
+    <ProjectReference Include="..\E-Loan.Entities\E-Loan.Entities.csproj" />
+  </ItemGroup>
+
+
+</Project>

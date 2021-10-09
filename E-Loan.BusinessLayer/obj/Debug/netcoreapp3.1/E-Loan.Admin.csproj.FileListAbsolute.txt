@@ -1,0 +1,12 @@
+D:\Capgemini\E-Loan.Admin\bin\Debug\netcoreapp3.1\E-Loan.Admin.deps.json
+D:\Capgemini\E-Loan.Admin\bin\Debug\netcoreapp3.1\E-Loan.Admin.runtimeconfig.json
+D:\Capgemini\E-Loan.Admin\bin\Debug\netcoreapp3.1\E-Loan.Admin.runtimeconfig.dev.json
+D:\Capgemini\E-Loan.Admin\bin\Debug\netcoreapp3.1\E-Loan.Admin.dll
+D:\Capgemini\E-Loan.Admin\bin\Debug\netcoreapp3.1\E-Loan.Admin.pdb
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.AssemblyInfoInputs.cache
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.AssemblyInfo.cs
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.csproj.CoreCompileInputs.cache
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.dll
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.pdb
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.genruntimeconfig.cache
+D:\Capgemini\E-Loan.Admin\obj\Debug\netcoreapp3.1\E-Loan.Admin.csprojAssemblyReference.cache

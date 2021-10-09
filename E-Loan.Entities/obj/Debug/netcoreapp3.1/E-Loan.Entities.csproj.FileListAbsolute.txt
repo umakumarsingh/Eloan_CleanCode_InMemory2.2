@@ -1,0 +1,49 @@
+D:\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.deps.json
+D:\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfoInputs.cache
+D:\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfo.cs
+D:\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.CoreCompileInputs.cache
+D:\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csprojAssemblyReference.cache
+D:\IIHT DATA\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.deps.json
+D:\IIHT DATA\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\IIHT DATA\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfo.cs
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\IIHT DATA\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.deps.json
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.dll
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfo.cs
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.dll
+C:\Users\Uma Kumar\Desktop\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.deps.json
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfo.cs
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\IIHT DATA\Eloan_With_Code_NewTestonAPI\Capgemini\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.deps.json
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\bin\Debug\netcoreapp3.1\E-Loan.Entities.pdb
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfo.cs
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.dll
+D:\IIHT DATA\Eloan_With_Code_MongoDb_New\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.pdb
